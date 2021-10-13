@@ -1,5 +1,7 @@
 **There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasure.**
 
+[link](#Intro-Blurb.-Don't-sleep-on-the-East.)
+
 If you do decide to engage in these 50 pages though, I'm putting 4 years worth of Ivy League Undergraduate Psychology (~$250,000) for free here, minus the bullshit. Grab some hot cocoa, because it's gonna be a long one. Also, if you know someone interested in Psych, but not actually interested in advancing Psych Research, probably just have them read this instead of getting a Psych degree.  Chances are, your buddy doesn't actually want to know psychology, they just want to know more about their mental issues and how to address them. *You'll find everything (outside of niche conditions) in Psychology that is 1) worth mentioning +  2) that is universally applicable to everyone, alluded to here.*
 
 Shout out to Dr. K, Andrew Huberman, and Scott Barry Kaufman, these are the giant shoulders I lean on. Much of the information here is practically word for word from them. No need to reinvent the wheel here.
