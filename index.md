@@ -5,7 +5,6 @@
 	1. [Don't Sleep on the East](#dont-sleep-on-the-east)
 2. other thing
 ![Alt text for the visually impaired](mindfulness.png)
-3.
 4.
 
 
