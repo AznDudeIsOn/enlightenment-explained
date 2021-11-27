@@ -1,8 +1,8 @@
 **There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasure.**
 
 # Table of Contents
-1. [Preface / Disclaimer](#Preface-/-Disclaimer)
-2. [Prelude](#Adding-Context-before-we-get-to-actual-content)
+1. [Preface / Disclaimer](#Preface-and-Disclaimer)
+2. [Prelude: Adding Cotext](#Adding-Context-before-we-get-to-actual-content)
 	1. [Don't Sleep on the East](#Dont-Sleep-on-the-East)
 	2. [West vs. East](#The-difference-between-Western-meditation-and-Eastern-meditation)
 3. [Chapter 1: Mindfulness is comparatively myopic](#Mindfulness-is-comparatively-myopic)
@@ -10,14 +10,14 @@
 		1. [Conscious differences between Mindfulness and Enlightenment](#Conscious-differences-between-Mindfulness-and-Enlightenment)
 		2. [Two Axis of Consciousness](#Two-Axis-of-Consciousness)
 		3. [Mindfulness vs Mindlessness Spectrum](#Mindfulness-vs-Mindlessness-Spectrum)
-	2. [Enlightenment Spectrum vs Consciousness Science](#Enlightenment-Spectrum-vs-Consciousness-Science))
+	2. [Enlightenment Spectrum vs Consciousness Science](#Enlightenment-Spectrum-vs-Consciousness-Science)
 4. [Chapter 2: Enlightenment and things like it](#Enlightenment-and-things-like-it)
-	1. [What is Enlightenment?](#What-is-Enlightenment?)
+	1. [What is Enlightenment?](#What-is-Enlightenment)
 	
 100. other thing
 ![Alt text for the visually impaired](mindfulness.png)
 
-## Preface / Disclaimer
+## Preface and Disclaimer
 [Return to ToC](#Table-of-Contents)
 
 If you do decide to engage in these 50 pages though, I'm putting 4 years worth of Ivy League Undergraduate Psychology (~$250,000) for free here, minus the bullshit. Grab some hot cocoa, because it's gonna be a long one. Also, if you know someone interested in Psych, but not actually interested in advancing Psych Research, probably just have them read this instead of getting a Psych degree.  Chances are, your buddy doesn't actually want to know psychology, they just want to know more about their mental issues and how to address them. *You'll find everything (outside of niche conditions) in Psychology that is 1) worth mentioning +  2) that is universally applicable to everyone, alluded to here.*
@@ -87,7 +87,7 @@ How does this relate to enlightenment? Well generally those who are less suscept
 To be more conscious, to be more sentient, is to experience experiences as they come. To have felt experiences simplifies things and makes you run more efficiently. Consciousness is a fundamental feature of the universe. We're not beings with higher consciousness than other animals. Sure, we can have conscious experiences that they can't but we're equally conscious. The only difference between us and other conscious beings is that we have the capability to complicate things (and therefore do cool things like create technology). And we often make very simple, ordinary things more complicated than they actually are, the worst part is that we don't even recognize it! For example, many people think they feel fine. Fine isn't an actual feeling, it's just a way of describing how things are going for you. You can feel content, adjusted to your situation, relieved, but you can't feel fine. You can only feel what you feel. Feeling fine is an umbrella term, it paints a broad picture, and opens you up to not exploring its contents. Everytime you tell yourself you're feeling fine, you're ignoring what you actually feel on a fundamental level. There may be a strong signal to your most constant sense of self, but the connection is still weak because of all the noise, and therefore your life becomes less as a personalized movie. That is, you're experiencing less.
 
 # Enlightenment and things like it
-## What is enlightenment?
+## What is Enlightenment?
 [Return to ToC](#Table-of-Contents)
 
  It isn't a state where you are permanently happy. Enlightenment is not an emotion. Enlightenment is a state of peace or contentment but not an emotion. It is peace in despite of sadness or happiness. People who are enlightened gain detachment from their emotions, you still experience emotions, they just don't bother you as much. And this axis runs perpendicular to the emotion axis. On the other end of this axis is suffering. So, there are people that suffer despite feeling enjoyment or sadness. That is, You can have a lot of positive emotion, a lot of enjoyment, you're not feeling sad, but there's a cosmic sense of suffering, like your life feels empty. 
