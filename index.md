@@ -1,8 +1,8 @@
-**There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasure. Skip any sections as you see fit**
+**There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasureg. Skip any sections as you see fit**
 
 # Table of Contents
 1. [Preface / Disclaimer](#Preface-and-Disclaimer)
-2. [Prelude: Adding Cotext](#Adding-Context-before-we-get-to-actual-content)
+2. [Prelude: Adding Context](#Adding-Context-before-we-get-to-actual-content)
 	1. [Don't Sleep on the East](#Dont-Sleep-on-the-East)
 	2. [West vs. East](#The-difference-between-Western-meditation-and-Eastern-meditation)
 3. [Chapter 1: Mindfulness is comparatively myopic](#Mindfulness-is-comparatively-myopic)
