@@ -608,7 +608,7 @@ Look Buddy, I'm lowkey autistic, looking at the temperament of a person and tryi
 
 4) An activity that Provides a space to digest sensations in whatever form they may come (thoughts, logic, feelings, emotions, senses, identity, ego, perception, level of energy, spiritual, behavior, visceral, physical, inclination towards adaptations, you name it) (This is valuable because just detecting and being aware of the thing doesn't stop it from happening. Feeling the thing, and Processing the thing does stop it. Control and  suppression just puts it away for it to resurface later.) Digesting sensations are how you unwire the wired neurons. (Unload the baggage that weighs you down and clear debuffs by digesting them.)
 
-5) An activity that involves Dooing reps of something that exercise your one directional-focused mind muscle (think laser-focus not lightbulb-scatter). (This is the main mechanism of any practice that improves your spiritual growth. Being and doing things, now.)
+5) An activity that involves Doing reps of something that exercise your one directional-focused mind muscle (think laser-focus not lightbulb-scatter). (This is the main mechanism of any practice that improves your spiritual growth. Being and doing things, now.)
 
 6) An activity that Levels up your ability to redirect your attention towards what matters and towards what you can do about it in the now (and detaches you from what "doesn't matter"). (This is what spiritual growth is all about. Fulfilling your duties while simultaneously freeing yourself.)
 
