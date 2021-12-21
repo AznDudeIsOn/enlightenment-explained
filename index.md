@@ -1,53 +1,53 @@
 **There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasureg. Skip any sections as you see fit**
 
 # Table of Contents
-1. [Preface / Disclaimer](#Preface-and-Disclaimer)
-2. [Prelude: Adding Context](#Adding-Context-before-we-get-to-actual-content)
-	1. [Don't Sleep on the East](#Dont-Sleep-on-the-East)
-	2. [West vs. East](#The-difference-between-Western-meditation-and-Eastern-meditation)
-3. [Chapter 1: Mindfulness is comparatively myopic](#Mindfulness-is-comparatively-myopic)
-	1. [Recontextualizing Mindfulness](#Recontextualizing-Mindfulness)
-		1. [Conscious differences between Mindfulness and Enlightenment](#Conscious-differences-between-Mindfulness-and-Enlightenment)
-		2. [Two Axis of Consciousness](#Two-Axis-of-Consciousness)
-		3. [Mindfulness vs Mindlessness Spectrum](#Mindfulness-vs-Mindlessness-Spectrum)
-	2. [Enlightenment Spectrum vs Consciousness Science](#Enlightenment-Spectrum-vs-Consciousness-Science)
-4. [Chapter 2: Enlightenment and things like it](#Enlightenment-and-things-like-it)
-	1. [What is Enlightenment?](#What-is-Enlightenment)
-	2. [Flow](#Flow)
-	3. [Psychedelics](#Psychedelics)
-	4. [Ego Death](#Ego-Death)
-	5. [Duality Transcendence](#Duality-Transcendence)
-5. [Chapter 3: Science Builds Epiphanies](#Science-Builds-Epiphanies)
-	1. [Science Misportrayed by Media AGAIN](#Science-Misportrayed-by-Media-AGAIN)
-	2. [Hypnosis and Sound Harmonics](#Hypnosis-and-Sound-Harmonics)
-	3. [Learning Nothing in Neuroscience](#Learning-Nothing-in-Neuroscience)
-	4. [Back to Harmonics](#Back-to-Harmonics)
-	5. [Spiritual Harmonic Philosophy](#Spiritual-Harmonic-Philosophy)
-	6. [Spiritual Karma](#Spiritual-Karma)
-	7. [The science version of Karma](#The-science-version-of-Karma)
-	8. [CO2 benefits of meditation](#CO2-benefits-of-meditation)
-	9. [Lessons from Creativity Neuroscience](#Lessons-from-Creativity-Neuroscience)
-	10. [Brain Wave Studies: Deliberate vs Effortless mindfulness](#Brain-Wave-Studies)
-	11. [Evolutionary Sleep Sophistry](#Evolutionary-Sleep-Sophistry)
-	12. [Timing Personal Development and Relaxation](#Timing-Personal-Development-and-Relaxation)
-	13. [Oversimplifying how Soul looks in Brain](#Oversimplifying-how-Soul-looks-in-BRain)
-	14. [Relearning Trauma](#Relearning-Trauma)
-	15. [Suppressing vs Processing Emotions and Thoughts part 2](#Suppressing-vs-Processing-Emotions-and-Thoughts-part-2)
-	16. [A note on Emotional Empathy](#A-note-on-Emotional-Empathy)
-	17. [These things we call Emotions](#These-things-we-call-Emotions)
-6. [Chapter 4: Back to Enlightenment](#Back-to-Enlightenment)
-	1. [Why Enlighten](#Why-Enlighten)
-	2. [Should You Meditate](#Should-You-Meditate)
-	3. [Meditation vs Enlightenment](#Meditation-vs-Enlightenment)
-	4. [Self-Transcendeence](#Self-Transcendence)
-	5. [Aritifical Intelligence](#Artificial-Intelligence)
-	6. [A Summary](#A-Summary)
-6. [Too Long I Did Not Read](#Too-Long-I-Did-Not-Read)
+1. [Preface / Disclaimer](#preface-and-disclaimer)
+2. [Prelude: Adding Context](#adding-context-before-we-get-to-actual-content)
+	1. [Don't Sleep on the East](#dont-sleep-on-the-east)
+	2. [West vs. East](#the-difference-between-western-meditation-and-eastern-meditation)
+3. [Chapter 1: Mindfulness is comparatively myopic](#mindfulness-is-comparatively-myopic)
+	1. [Recontextualizing Mindfulness](#recontextualizing-mindfulness)
+		1. [Conscious differences between Mindfulness and Enlightenment](#conscious-differences-between-mindfulness-and-enlightenment)
+		2. [Two Axis of Consciousness](#two-axis-of-consciousness)
+		3. [Mindfulness vs Mindlessness Spectrum](#mindfulness-vs-mindlessness-spectrum)
+	2. [Enlightenment Spectrum vs Consciousness Science](#enlightenment-spectrum-vs-consciousness-science)
+4. [Chapter 2: Enlightenment and things like it](#enlightenment-and-things-like-it)
+	1. [What is Enlightenment?](#what-is-enlightenment)
+	2. [Flow](#flow)
+	3. [Psychedelics](#psychedelics)
+	4. [Ego Death](#ego-death)
+	5. [Duality Transcendence](#duality-transcendence)
+5. [Chapter 3: Science Builds Epiphanies](#science-builds-epiphanies)
+	1. [Science Misportrayed by Media AGAIN](#science-misportrayed-by-media-again)
+	2. [Hypnosis and Sound Harmonics](#hypnosis-and-sound-harmonics)
+	3. [Learning Nothing in Neuroscience](#learning-nothing-in-neuroscience)
+	4. [Back to Harmonics](#back-to-harmonics)
+	5. [Spiritual Harmonic Philosophy](#spiritual-harmonic-philosophy)
+	6. [Spiritual Karma](#spiritual-karma)
+	7. [The science version of Karma](#the-science-version-of-karma)
+	8. [CO2 benefits of meditation](#co2-benefits-of-meditation)
+	9. [Lessons from Creativity Neuroscience](#lessons-from-creativity-neuroscience)
+	10. [Brain Wave Studies: Deliberate vs Effortless mindfulness](#brain-wave-studies)
+	11. [Evolutionary Sleep Sophistry](#evolutionary-sleep-sophistry)
+	12. [Timing Personal Development and Relaxation](#timing-personal-development-and-relaxation)
+	13. [Oversimplifying how Soul looks in Brain](#oversimplifying-how-soul-looks-in-brain)
+	14. [Relearning Trauma](#relearning-trauma)
+	15. [Suppressing vs Processing Emotions and Thoughts part 2](#suppressing-vs-processing-emotions-and-thoughts-part-2)
+	16. [A note on Emotional Empathy](#a-note-on-emotional-empathy)
+	17. [These things we call Emotions](#these-things-we-call-emotions)
+6. [Chapter 4: Back to Enlightenment](#back-to-enlightenment)
+	1. [Why Enlighten](#why-enlighten)
+	2. [Should You Meditate](#should-you-meditate)
+	3. [Meditation vs Enlightenment](#meditation-vs-enlightenment)
+	4. [Self-Transcendeence](#self-transcendence)
+	5. [Aritifical Intelligence](#artificial-intelligence)
+	6. [A Summary](#a-summary)
+6. [Too Long I Did Not Read](#too-long-i-did-not-read)
 100. Pic example in case I want to add pics later
 ![Alt text for the visually impaired](mindfulness.png)
 
 # Preface and Disclaimer
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 If you do decide to engage in these 75 pages though, I'm putting 4 years worth of Ivy League Undergraduate Psychology (~$250,000) for free here, minus the bullshit. Grab some hot cocoa, because it's gonna be a long one. Also, if you know someone interested in Psych, but not actually interested in advancing Psych Research, probably just have them read this instead of getting a Psych degree.  Chances are, your buddy doesn't actually want to know psychology, they just want to know more about their mental issues and how to address them. *You'll find everything (outside of niche conditions) in Psychology that is 1) worth mentioning +  2) that is universally applicable to everyone, alluded to here.*
 
@@ -59,12 +59,12 @@ Disclaimer: Don't trust me. I could be wrong. Don't take anything here for grant
 
 # Adding Context before we get to actual content
 ## Don't Sleep on the East
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The mind and body are one, and this phenomenon is called Soul (or what Descartes mistakenly called mind.) Your relationship with your soul has the largest effect on how your nervous system operates, fourth only to breathing (which is not only a requirement to life but also has reverberating effects on the whole mind and body, the whole nervous system), and sunlight viewing behavior (because syncing of the harmonic rhythm of all your organs to your circadian clock reduces the otherwise resultant traffic jam cacophony, and when tuned well will automatically level your up your intimacy with your soul,) and diet (Every cell runs on glucose whether you like it or not.) Anything else than those 3 pales in comparison to soul. And if you think you can list something more impactful, it's only cause you're some sort of optimization freak, you probably join cults that have doctored you to think you can do things like improve your vision. Your relationship to your soul was evolved for survival, not evolved to be happy, so the nature of your relationship to your soul will affect your internal response to all things external. Look, you science worshippers and ayurveda doubters (ya'll know who), their insight into the 3 doshic categories (kapha, vata, pitta) is a heuristic pointing to a fact of human life. If you're some shade of down depressed, that's the equivalent of communicating to your body to stop stop stop, conserve energy, chances of cultivating resources in your environment is low, so find a place where you can keep a low profile and rest alone as you hope the danger passes you by. If you're some shade of energetic and anxious, that's the equivalent of communicating to your body to stay ready to go go go and run to forage and find food. If you're some shade of straightforwardness and anger, that's the equivalent of communicating to your body that if we engage in competition now, we are going to get the good stuff we need to survive. Which of these 3 modes you tend towards (freeze, flight, or fight) will in turn bias the type of neurochemical information being sent from brain to body that informs how your body should respond to nutrients, and how your body should prepare itself physically to enhance ones reproductive fitness. Sure, you can override these effects with excessive dieting (because what your body can do is limited by what's available to use), or with forced physical activity (because your body will force itself to make metabolic arrangements for what you actually end up doing). But outside of weirdos that do that kind of stuff, Soul is #4 on the list of huge body impact. And Meditation is about increasing your chances of unlocking a 4th mode in response to conflict, the calm and connect mode. Spiritual growth influences everything, from how you move to how you breathe to whether you even decide to spend time engaging in the deliberation of picking up a diet change or exercise regime or healthy sleep or how you socially interact. Anyways, this will be a deep dive into the one scientifically verified treatment, that is not placebo, that actually affects all mental illnesses, and has verifiable mild to moderate benefits for all people.
 
 ## The difference between Western meditation and Eastern meditation
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The goal of meditation is moksha (enlightenment). It's kind of weird but in western society no-one talks about enlightenment. Buddha didn't teach meditation so that you can have an empty mind. He was teaching meditation so you can be liberated. Somewhere along the way in the 60s there were scientists who learned meditation. The era of Transcendental meditation, the birth of the yogic hippy and groovy drugs. This lead to an interest in meditation, and then people got interested in the science, the studying of it. This is where we get the birth of mindfulness, people talk about mindfulness a lot but not meditation. Researchers tried to find the common element, which is difficult because there's a diverse range of practices, and lot of weird cultish stuff associated with meditation. They tried to remove the latter part, standardize it and protocolize it, and in doing so actually removed the spiritual part out of meditation. So they gave you the fast food version of meditation. Mindfulness is the McNugget of meditation. A uniformed thing that is not equally appropriate for everyone. In addition, the protocolization made the goal of meditation mindfulness but the goal of mindfulness is actually mindlessness. So essentially is like taking bread, pasta, naan, and rice, finding a way to categorize it: carbohydrates. Studying carbohydrates, and then feeding you a tube of carbohydrates through mindfulness or apps (by the way, Fuck protein bars).
 
@@ -74,24 +74,24 @@ Unlike the west where mindfulness tends to be the focus of meditation. In the ea
 
 # Mindfulness is comparatively myopic
 ## Recontextualizing Mindfulness
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 In the East there is a particular philosophy that comes with mindfulness. They view mindfulnesss more as a "Witnessing Attitude', In Sanskrit, Sakshi Bhav. There are practices seeped in Cultivating your witnessing attitude. If I can observe this, this is not what I am. Theoretically, I could lose my hand and I'd still be me. Similar process with mind: I can look at my mind, and see the mind fluctuate. I can't really be anger and I can't really be sad. I can "be" angry or sad, but since those are transient states, they are not what I actually am  I am the thing that experiences anger or sadness or thoughts. Likewise, I am not an action-taker, I take action. So what is I? The further back you go with this logic the more you get to the witnessing attitude. This is what you practice doing during mindfulness meditation. Essentially, in mindfulness meditation, you spend time doing an attitude of witnessing, and as a ersult will gain familiarity with the nontrasient parts of who you are. To really form a solid connection with the part of you that was with you since birth, and will stay with you till death, the thing that makes you, you. Since it is a connection to the nontransient, it is therefore a source of stability that serves as the foundation of all actions you take.
  
 ## Conscious differences between Mindfulness and Enlightenment
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 A brief reminder, that although the west talks about mindfulness as synomynous to meditation. In the east, mindfulness plays a part but is by no means the center of attention for meditation. Moksha, enlightenment, is the goal, and mindfulness is just an approximate bootleg version of enlightenment. The difference between mindfulness and enlightenment is rather simple, but very hard to describe in words. In the same way that sight is hard to explain to the unsighted, but there's nothing particularly difficult to understand about sight once you've experienced sight. Likewise, once you know enlightenment, you know. Gaining knowledge is the hard part. The Hindus have created a 2 axis heuristic for dissecting and thinking about consciousness, that hopefully help the uninitiated gain some insight into enlightenment. 
 
 ### Two Axis of Consciousness
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 In this 2 axis spectrum of states model, we think about Mindfulness as a state of consciousness that lies in one of the model's quadrants. On one axis, we have high mind/thought activity to none, no mind activity. On the other axis, high awareness to no awarenss. Now, where does the mindfulness state of consciousness lie in the 2 axis spectrum of states model? Well, lets think about some of the other quadrants first. (These examplse aren't perfect but bear with me but,) when there's No mind activity, No awareness = Deep sleep. On the other hand,, when there's High mind activity, High awareness = your average waking day (or a really lucid dream). In between, there is High mind activity with ittle-to-No awareness = dreaming/daydreaming. As for Mindfulness? It is in the last quadrant, High awareness and really close to No mind activity. 
 
 Then, where does mindfulness place in terms of Englghtenment? Note that there are several paths one can take to enlightenment, Mindfulness just happens to be one of the paths that can serve as an introduction to the spectrum of high conscious no mind state. And in this introduction, you merely learn to dip your toes and get a feel for how the enlightenment pool feels like, but still is a fundamentally different experience from immersing your whole body into the pool. 
 
 ### Mindfulness vs Mindlessness Spectrum
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The enlightenment state is an extremly conscious mind, the highest awareness, and by having no mind activity, this allows for the highest possible levels of experiencing life. In Hinduism, Sakshi Bhav (witnessing attitude) aka mindfulness, is a lower level state, and is a state when the observer exists with mental activity, and/or the state of watching things, aka the state that many scientists mistakenly believe is a "no-mind" state. Traditionally, practicing the mindfulness state was not because people wanted to be mindful, it was because this is one of the ways to prepare yourself to be mindless, to enter the mindlessness state, the first actual state of Enlightenment, Dhyana - the state of consciousness that is truly a no mind state, a mindless state. The mindless state is different from the mindfulness state that scientists mistaken for "no-mind", because in the mindfulness's "no-mind" state your mind is still being allocated towards watching/witnessing rather than being. Imagine if a dog did mindfulness before it decided to feel how it felt, that's essentially what you're doing in a mindfulness practice. It has value, because not everyone is ready to embrace their most conscious sense of self. In terms of enlightenment, practicing Sakshi Bhav can help you reduce some of the noise, but ultimately, it is adding a node instead of taking the most direct and clearest path to the enlightenment state.
  
@@ -107,7 +107,7 @@ Unlike mindfulness, in the actual no mind state of Dhyana, you're actually mindl
 The main idea behind this spectrum of terms is that your spiritual growth can continuously be improved. At the upper echelons of enlightenment, there isn't really an end because it's something you continuously hone. At the top, you reach Samadhi = temporarily feel enlightened. Beyond that, Hypothetically, beyond temporary enlightement is of course, being permanently enlightenment = Moksha. In this state of Moksha, is when that observer becomes your most constant and grounded self. In this state, What happens is that your life becomes a movie. Not in a depersonalized type way though. In a very personalized type way. It's a lot to take in, so if you didn't understand the your-life-as-a-movie analogy, don't worry, it's all a part of the process, we're not here to train your mind's ability to do mental gymnastics, we're here to cultivate your capacity for awareness. Later on we'll dive deeper into this idea of the observer melding with the object of observation, and this idea of your life becoming a personalized movie. But if you already do understand the your-life-as-a-movie analogy you might as well just stop reading here, because every section is just a rehash of that analogy with varying perspectives as to why that is the case.
 
 ## Enlightenment Spectrum vs Consciousness Science
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 From a science perspective, there's a very basic way of thinking about consciousness. At its core it is sentience, the susceptibility to sensation. The more conscious you are, the more sentient you are, and therefore more susceptible to sensation. (And these sensations are often resultant of underlying processes we are unconscious of.) There are many ways to catagorize different sensations/experiences, here's one way: sensation, perception, feeling/emotion, thought/metathought, behavior/action. We can think of these 5 different sensations as the 5 ways we interact with life. First, the things that you will feel nonnegotiably: intereoception (internal), extereoception (external), proprioception (space/self-location). Second, where you focus your attention will directly direct your experience (via your mental attentional spotlight but also something as simple as which way you are facing.) Third, Your energy levels, your level of autonomic arousal, in combination with the context we are in and the demands we are facing, will flavor your experience. Fourth, The way you conceptually organize what is happening within and external to us will affect the way you feel about your experience. The way you interpret the way you conceptually organize will too affect the way we digest our experience, since we have the ability, to witness from a distance, to meta-perceive our thoughts, feelings and sensations. Finally, the reflexive or deliberate behaviors we engage in actively influence the environment of what future sensations arise by changing what is happening behind the scenes in various types of non-conscious processes because note that in reality there is no mind-body dichotomy; All mental (non)activity are physical and have physical impact, and All physical (non)activity are mental and have mental impact. 
 
@@ -117,7 +117,7 @@ To be more conscious, to be more sentient, is to experience experiences as they 
 
 # Enlightenment and things like it
 ## What is Enlightenment?
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 It isn't a state where you are permanently happy. Enlightenment is not an emotion. Enlightenment is a state of peace or contentment but not an emotion. It is peace in despite of sadness or happiness. People who are enlightened gain detachment from their emotions, you still experience emotions, they just don't bother you as much. And this axis runs perpendicular to the emotion axis. On the other end of this axis is suffering. So, there are people that suffer despite feeling enjoyment or sadness. That is, You can have a lot of positive emotion, a lot of enjoyment, you're not feeling sad, but there's a cosmic sense of suffering, like your life feels empty. 
 
@@ -128,7 +128,7 @@ You may have personally experienced this detachment in other places as well, lik
 So, How do you self-transcend into this life-as-a-movie state? Anytime you find something that helps you dissolve a part of your ego, you self-transcend a little. More specifically, the process of ego dissolution is also the process of self-actualization, because dissolving your ego puts you in touch with your truest and best version of yourself. Moreover, the process of self-actualization is also the process of self-transcedence, because dissolving your ego effectively and therefore getting a clearer sense of self also results in clearing the debris that was blocking the connection between the observer and the observation. Before I dive into the nitty gritty of how-you-become-enlightened-via-ego-dissolution though, I will tell first you what it won't look like, go into some psychology history, as well as share insight into how the underlying mechanisms of your mind function.
 
 ## Flow
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Flow has many similarities and therefore overlap with the enlightenment spectrum. In the flow state there is not a whole lot of mind, a little mind there that is one-pointed/kind of absorbed in the mental activity, that is fully focused/engaged on what we already know how to do, and is a high conscious state. A state where the self and the mind kind of become one, because our sense of interoception and extereoception suits our goals perfectly and it just feels right. Flow is a state where the sense of self melds with the activity of observation, thanks to our brain-body's ability to figure out what needs to be handled here and peeling away all the irrelevant stuff from our attention.
 
@@ -139,7 +139,7 @@ What flow state is specifically, is an expression of what we already know how to
 (Sidentoe: There's two forms of flow. Absorbed which is more focused/concentrated and after the task you realize much more time passed than how much time you feel like passed even though you feel like your sense of time was intact. Panoramic which is more like being in the now, very present focused but in a you-lose-sense-of-time type of way, can be absorbed too but more aware of everything around, which feels like you are aware from an open interconnected space.)
 
 ## Psychedelics
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Why did drugs and meditation and hippies come together? Because psychedelics can come with ego dissolution which can move you towards enlightenment. People that take psychedelics often talk about separating from their life. For example, psychedelic therapy can be useful for people with PTSD. What happens is that a traumatic event and/or traumatic experience that shapes your personality and the way your neurons are wired. Essentially, you get trapped within your own mind. You get so stuck in that traumatic experience. For example, if you have a fear of abandonment. You are so concerned about being abandoned, "I'm going to be abandoned. I'm going to be abandoned." Someone with those type of thoughts, just from their language you can get a hint of them reliving the past, that that they're in it: "I am." What the psychedelics might do is remove them from being in it, removing I'm. And combining it with therapy, the goal is to have them step outside of their fear of being abandonment, "I have a fear of abandonment." Going from I am to I have, and suddenly the fear of abandonment is outside of you. It's not you, in the same way your hand is not you. It's not "I am in pain" it's "my arthritis is acting up." Training the mind to notice that their mind runs programs like the abandoment.exe program, or the in_pain.exe program. Programs that at some point served as defense mechanisms but now are disserving you as malware. And fostering understanding that your mind can do whatever it wants down there, and that you are up here, that there's distance. That when your mind activates certain modes/programs, it manifests in a bunch of weird ways because you don't understand it. Understanding what happens when you feel x y or z, and how it impacts all of your interactions. Once you become aware of its existence, that allows you to every now and then use your 'detection' skill, to see if .exe program is acting up again. Improving your detection level is important. The problem is all these things such as the fear of abandonment, they're like invisible, all cloaked, you can't detect them, you're just living your life and there's some invisible psychological thing beating the crap out of you. You can sort of come up with makeshift ways of handling it, but until you really make visible what's invisible it'll just continue doing its thing. Once its visible, you can start cultivating detachment from it.
 
@@ -148,7 +148,7 @@ That's just all conjecture though. For sure, ego dissolution is something someti
 Whatever psychedelics do do though, all psychedelics do is activate your existing brain. Substances don't change what your brain can do, it just turns it on in a particular way (that may lead to very traumatizing psychedelic trips and/or psychosis that is life-threatening to you or your surroundings). So, theoretically anything that can be done with a psychedelic can be done without it (theoretically, reality may not be true.) Like if you look at marijuana we have endogenous cannabinoids. If you feel euphoric and chill when using marijuana, you can also experience that without marijuana. The brain has to be able to have that experience in order for you to have it. Although the one thing the brain can't do without marijuana is give you moobies (because it contains unidentified chemicals that promote aromatase activity which converts testosterone to estrogen.) Stay away from drugs friends because they cause some really crazy shit you wouldn't expect till it's too late.
 
 ## Ego Death
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The epitomy of spiritual experiences: the Out-of-body and the Near-Death experiences. When people experience one or both of these things, they are often life-changing and even personality-changing. How do they work? Yep, you guessed it; Ego Dissolution. In a sense, even without having a near-death experience, dissolving your ego is like killing a part of your self off because everything that can be described as identity is also ego.
 
@@ -165,7 +165,7 @@ In a very similar sense, those who are extremly devoted, not necessarily in a re
 Devotion and Ego-Death are highly tied together, such that, both phenomenon completely simplifies the way our brain functions neural-electrochemically by favoring a neural environment accustomed to producing tremendously less mental noise diversity, and thereby making the leftover neural signals front and center of our attention. (Well not always, sometimes when ego-death like situtions occur, the sense of self can get "destroyed" through expansion because there's a high entropy state of the mind. So, like massive amounts of connectivity is happening, such that the sense of self gets disorganized and diffuse. Which can be a traumatic experience, as this disorganization can leave your sense of self feeling shattered, the sense of self that was once comparatively low entropic and very simple, is now leaving you feeling uncertain, can't make sense of things, and out of it as if you entered an abyss. On the other hand, this diffusion kind of helps with feeling a sense of connectedness to things that are not you, and therefore be a spiritually uplifting experience. Psychedelics tend to cause ego-dissolution through ego-death and/or ego-diffusion. This process of all this connectivity happening can cause PTSD, and often requires some form of self-development and processing after. So, stay away from drugs, or at the very least don't do them in unsafe environments or around people you don't trust your life with. You want to be prepared to digest whatever RNG gives you.)
 
 ## Duality Transcendence
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 One focus of meditation is to sit with duality. To acknowledge that things can Coexist. That just because there's two very opposite extremes of describing something, that does not mean that one of them has to be true and the other not true. They are both true and they are both false. One of the things gurus teach you about is the folly of language: that is, the difference between things with quality and things without quality. Quality refers to that which can be described: descriptions, the ego, identities (such as Doctor/Weeaboo), scientific facts. Therefore things without quality are the things that cannot be described, most notably, enlightenment or extremely abstract concepts like dimensions beyond the 3rd. More specifically, descriptions are useful ways to help others understand what thing you are referring to, but at the same time, descriptions are far from accurately describing the thing you are referring. That things are not opposites. Things are not good or bad. Holy and Evil are just reasoning mechanisms separate from the thing itself. A form of pro vs con, where good is pro-societal and bad is anti-societal. Things are neither bitter or sweet. Think about this, How to describe the taste of a strawberry? A strawberry isn't sweet bitter or sour. It is what it is. A strawberry doesn't taste sweet bitter or sour, it taste like a strawberry. Those descriptors are just ways to approximate the taste of a strawberry, but you could never put into words how a strawberry tastes. You could never put into words what active focus looks and feels like. Descriptors are concepts of the mind that are not true to what things actually are. You may save lives by doctoring, but you're not a doctor, you're just you. Not to say descriptors are useless. When describing something, the people who know will know what you mean. But don't get it twisted, just because people understand what you mean, that does not mean that your descriptions actually accurately depicts the thing you are trying to describe. Descriptions have a strong potential of distracting you from seeing things for their true identity; Things are simply what things are. Anytihng more is just mental constructions laid on on top of reality. Likewise, as you read everything here, no descriptor of enlightenment can actually describe enlightenment. The only way to truly know is to try to taste it for yourself.
  
@@ -178,12 +178,12 @@ I previously mentioned I was going to talk about how, Ego Dissolution => Self-Ac
 # Science Builds Epiphanies
 ## Science misportrayed by Media AGAIN
 ### When Positive Psychology used to be Happy Psychology
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Nowadays, Positive Psychology is a field focused on peoople developing holistically, but there was a time when all they talked about was acheiving happiness. And Look, you know it, Marty knows it, positive thinking is a scam, and it will never work.  There is SOME merit to it, but for the most part it will never work because the conditions for it to work don't exist, and it works at the level of the mind rather than the level of consciousness. And you don't learn things unless it reaches your subconscious. Many things in your mind expire and do not reach the subconscious. Not to mention, you don't need to convince yourself of anything, that just causes more problems in the mind; When you engage in positive thinking (or someone else engages you with positive thinking) you engage in A War that looks a lot like imposter syndrome. However, the focus on happiness, and positive thinking was critical to pivoting the direction of psychology, a science previously strayed by a focus on what is comparatively easy to quantify: reducing symptoms, reducing harm, reducing negativity, treating instead of building strength. We had to start somewhere to make this change, and happiness positive thinking was a no brainer as a foundational start. It is easy to quantify, understanding of the brain was still fresh, new technologies were developing, humanistic psychology was thrown to the wasteside and could finally be picked up to be rebranded without the negative connotations associated with it (rabbit holes, psychedelics, cults, WEEWOO scam-artists, "just find yourself bro" cliches, and all else spiritual/hippy) and my boy Marty just got elected to be the president of the APA (American Psychological Association.) Marty (founder of Positive Psychology) knew this was just the beginning, and quickly reframed the happiness model to one of PERMA (Positive Emotion, Engagement, Relationships, Meaning and Accomplishment, each of which touched upon in one tangential way or another in this writing,) which provided a foundation for people to study all the cool catch phrases we use today like Grit and Creativity, and all the other stuff we actually care about. Not to say positive thinking doesn't have utility. 
 
 ## Hypnosis and Sound Harmonics
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The placebo effect is real. If it wasn't, many mental illnesses would be way easier to solve, because many of the thought bubbles that result from mental illness, the people that experience mental illness often don't believe the thought bubbles and are aware the thoughts don't align with reality, but it doesn't make the effects of these thoughts feel any less real. Vice versa, If you think it, it will affect you. And the effect might even be strong enough for you to start feeling and believing the thoughts, given that there are appropriate external and/or internal environments that favor its installation, that further increase your suggestibility. In this section we talk about when the conditions are met for positive thinking to work. It is ultimately about creating a holistic environment that favors installation and suggestibility via the usage of hypnosis and/or sound harmonics. Essentially, the modern day version of a warcry.
 
@@ -192,7 +192,7 @@ Our friends at Stanford are creating hypnosis tools (they also do other cool stu
 The Hindus say Sankalpa [their variation of hypnosis] is to be done after meditation during a calm mind with the purpose to plant positive thoughts and be changed by them, not to be confused with trying to control thoughts nor growing willpower to stop negative thoughts. Sankalpa is a vow/commitment to your truth, and only works if it is unique to you, that is, if there is a desire, intention, or resolution that you want to practice and reinforce for a long time (a year+.) The Hindus hypothesized that the idea is that learning is a processing in the unconscious mind and that thoughts/knowledge come from the conscious mind to the unconscious mind. Moods, desires, experience and other stuff don't produce thoughts themselves but they may result in having a thought/knowledge in the conscious mind permeating into the unconscious mind so that it can be later on recalled when applicable. You can see the intuition on whether this works or not if you think about your experiences with school. Clearly, when studying, it would be easier to do so with a clear mind, than a mind where the soil of thoughts is stirred, and where this stirred debris can block our knowledge from reaching the bottom. The goal of Sankalpa is to cultivate a mind that actually, instead of keeping you from doing the things you should do, actually prompts, helps and motivates you to do the things you should do (and doesn't lead you to fall into traps your mind makes).
 
 ## Learning Nothing in Neuroscience
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 From the (un)learning neuroscience literature we can extrapolate lessons that indicate how cultivating particular states of the mind facilitate brain change. The 4 key components are summarized at the end; 
 
@@ -225,12 +225,12 @@ Anyways, as for (un)learning's relationship to spiritual growth, to change who y
 It is your internal standpoint that matters the most. Your own autonomy, and choice. Your own belief and your own focus on putting in your best effort to change. Confidence in the face of failure. When you be deliberate, when you align your internal standpoint towards your chosen direction, the other 3 key components that allow for learning, for brain change, will happen automatically. When you are deliberate and align yourself in a laser-type way, there's only one thing in your attentional spotlight and therefore only one thing that can logistically have meaning/importance to you, and only one thing your brain will highlight, and your ability to rest is improved because there is less mind racing, less attempts at building a makeshift infrastracture of understanding in the mind, less attempts at building connectivity between non-closely related stimuli. The simplicity and clarity that comes with training your ability to direct your focus opens up the fastest lane for making change. Okay, so back to the value of mind-states and positive thinking. 
 
 ## Back to Harmonics
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The problem with Hypnosis and Sankalpa, this is a dependency, a temporary buff. It has utility in allowing you to dip your toes in the water to see how it feels and what you should expect. It's cool and useful, use it it if you have to, like if you're actually going into war and need a warcry. Use it if it is a convenient cue to set the mood or set your mindset, like your favorite coffee shop playlist or your favorite ritual before you shoot a free-throw. Otherwise, don't depend on it because the real spiritual growth comes from doing the dirty work yourself. That way, if need be, you can do what you want to do without buffs, without having to making sure things have to be "right" first [because "woe is you, how will you get work done if you don't got the playlist playing in the background and the right setting?"], and that way engaging in buffs is a choice, not a dependency. Buffs shape the state of your consciousness but not level up your base consciousness. They allow you to be empowered, but what you need is to empower your self.
 
 ## Spiritual Harmonic Philosophy
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 THis is a nonscientific section clarifying misconceptions of the Hindu terms Ohm, Mantras, Brahman, and Karma are, and this section serves as a build-up towards science's perspective on free will. Skim or skip these sections if neither of those two things interest you. This section is comparatively longwinded, repetitive and simple, and mostly serves as a culmination and review of all the information thus far.
 
@@ -259,7 +259,7 @@ Regardless of whether you are actually emitting a phrase or not, mantras (breath
 The idea behind mantras is that they're like Legos, if we get better in tune with how our mind works, then we can cut the crap and start putting together the Legos of our mind to start exerting influence on the world, to start sowing seeds of Karma that may bloom. The idea is to help you reconcile with reality's duality of how your effort does not guarantee an effect on the world nor guarantee desired results from the world, but when the results of your Karma seeds do bear fruit it sure as hell feels like you used your inner power to manipulate the universe to get what you want. So, meditation, by having an effect on your psychology and your biology, levels up your ability to enact your transcendent intentions. 
 
 ## Spiritual Karma
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Just like meditation and mantras, the western depiction of Karma is inaccurate. Although, there are some association with Karma and reincarnation as a source of morality but really Karma is a principle of cause and effect. Morality does not even come into the equation of how reincarnation happens. Karma is about how the current state of things are just natural consequence of events that happened before. Each seed of Karma you sow, each action you take, has its own chance to bloom in the future. The reincarnation stuff is sprinkled on because actions not only affect you, but they have a societal impact. You know, seven generations? You have an impact on 3 past selves before you and 3 future selves after you. Something like that. Butterfly effects and all that. Like, people like to talk about bad and good Karma, but Karma is just about how past events inform your current situation. Who you are today is a confluence of events from your past. And current actions will inform later situations.
 
@@ -267,7 +267,7 @@ How exactly? well it's like gardening, there's variability in whether seeds even
 
 ## The science version of Karma
 ### AKA Free Will does not exist (Basically from Dr. Robert Sapolsky)
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Whether or not Free Will exists depends on your definition.
 
@@ -286,12 +286,12 @@ Otherwise, free will is a meaningless concept, as meaningless as colorless green
 As already mentioned, we do engage in neuroplasticity by doing things like trying to change things and gaining knowledge and experience, such as the knowledge of how neuroplasticity works and how free will does not exist. So, do subtract agency from all types of things we blame people for. Not to say we shouldn't keep them accountable. We want to hold people to high standards for sure. Subtracting agency is not an excuse to remove duty or excuse people from taking responsibility for things they've done. So even though it is not someones fault that they did whatever they did. They still did it and they ought to take responsibility for the things they did. Recognize we do have neuroplasticity and that we can find utility in trying to change things, and a major part that comes with this effort to try to change things is the part about trying to take responsibility for things we did, even if those things are not our fault, we need to take the punishments and rewards that are associated with the things we did. It is predetermined whether we succeed or not in this endeavor to make change, and even though whether we succeed or not is not in our control at all, but nonetheless we are blessed with neuroplastic machinery, that is, our circuitry can and does get changed (by its environment) which is why we should try to make change and is also why we find utility in knowing about neuroplasticity, that is, we find utility in knowing that our machinery does change.
 
 ## CO2 benefits of meditation
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Transcendence is why the hippy sciences connected drugs with meditation. If you read Siddhartha, then you might remember that when Buddha tried really hard to become enlightened he resorted to aesthetic practices, Tapasya. Essentially, self deprivation, like fast for very long periods of time. What he actually found instead was that he got extremely high. Neuroscientific evidence that spiritual experiences in meditation are due to very high levels of CO2 in the brain. Normally it can be damaging or toxic (it's one of the ways people commit suicide). What they hypothesized is that regular meditators very experienced in meditation (decades+) tend to have a very low respiratory rate. Low respiratory rate>increases Co2 levels a lot. Elevated Co2>Brain starts malfunctioning. In those malfunctions it is believed that people have trippy spiritual experiences due to toxic levels of CO2. It ain't all bad, doing meditation on a regular basis acclimatizes us to these levels. When CO2 is elevated, brain tells you to breathe more, to rapidly breathe. But when you meditate regularly, it starts to recruit other mechanisms that do not require rapid breathing. As mentioned, you begin to have a very low respiratory rate. When your heart is starved for oxygen, it sends signals to create collateral circulation, arteries get clogged, the heart slows down. Two things happen in response, dilate articles to ease congestion, and angiogenesis or creating more blood vessels. An adaptive function so that if you develop a blocked artery you have alternate paths of circulation, rather than dying from a heart attack. (Tangent note is the paperbag breathing technique for hyperventilating is that it drops the O2 level and increases the CO2 level in the paperbag. Normally, as your internal CO2 level increases it causes you to take shallow rapid breaths, but as your O2 level drops it causes you to take the desired deeper breaths.) [For more on the benefits of CO2, and proper breathing in general, I HIGHLY reccomend you read Breath: The New Science of a Lost Art by James Nestor. And I don't lightly reccomend books because many of them are dry, nonsciency, bloated, or repetitive. This one isn't; It's entertaining and informative the whole ride.]
 
 ## Lessons from Creativity Neuroscience
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Often meditation turns down the Default Mode Network, area related to mental imagery, self reflection, and processing your stream of consciousness (and thus related to creative output. It is often referred to as the Imagination Network.) DMN is most active when you're at rest or ruminating or mind wandering (it's called default mode because it has to do with the way our brain functions by default, or more specifically, the way our brain idles.)
 
@@ -305,7 +305,7 @@ And if you read between the lines and make inferential implications, going on th
 
 ## Brain Wave Studies
 ### Deliberate vs Effortless mindfulness
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 "People watch monks, see them do things like fast and meditate and try to imitate them. They think, 'This is what spiritual people do, so I'm going to do that thing to become more spiritual.' But these people got it backwards. Because those behaviors are a consequence of an internal change, not the other way around. It's not forcibly living a simple, renounced, and detached life that will create the spirituality. It is the detachment/renunciation that lets you live life, regardless of how difficult or simple life is. To effortlessly Be. To live life not forcibly." ~Dr. K.
 
@@ -334,7 +334,7 @@ THe trick though is that entering this high alert state doesn't require any jedi
 Now, not to say that just because someone is capable of doing something that they're ready to do it. Not everyone is ready for non-duality meditation, as this type of meditation will open up the door to all that you have repressed. Engaging in the balanced awareness state takes away your ego, therefore taking away your ego defenses. All of the feelings you may have burried underneath will come rushing out. It will be a ton of unconscious debris that will make it a very tumultuous ride and in addition the debris weaken your connection to the synchronized gamma frequencies. If this subconscious repression applies to you but you nonethless are commited to honing your ability to enter the balanced awareness stae. Note that this work inevitably include volatility, so much so that it could leave you in a state where you further from the gamma state than you would have been if you never engaged the work in the first place. But this work must be done if this is something you choose to pursue, and you'll get through it eventually step by step because the demons you have burried are not unlimited in scope. So, it may be advantageous for you to first engage with some of the deliberate type meditations first so that you engage various brain states that process some of this debris in different ways before fully choosing to engage in the gamma state once again. Doing things like making sense of things, learning, problem solving, letting go of the things that cannot be known or redone, recalling and sitting with existing information, resting, sleeping. But you can do it, air out the damp cellar every now and then at your own pace. If it becomes too overwhelming, engage in a grounding technique. Take it piece by piece, and take breaks. Each blip of gamma is like an aha moment, some combination of awe, contentness, joy, and alertness, that is also conducive for synergizing with creative flow.
 
 ## Evolutionary Sleep Sophistry
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 If you think about it, We evolved to be awake to sleep. As in, our basal state is to sleep. And being awake is just a way for optimizing our sleep. This may surprise people as people think sleep as quiescence, as inactivity. But sleep is a very active state of the mind. There's a lot of synchrony and recallibration that happens during sleep, both of which are very active processes. During REM sleep, our body may be paralyzed (except for the eyes and ears) but that paralysis is likely an evolutionary trait to prevent us from self-harming, because during REM sleep the activity of the brain is pretty hard to distinguish from waking. (Presumably, sleep is the ultimate cram session in case we need to be awake.) It'd be pretty spooky if our body started to actually doing things but we are not consciously aware of it. But yet that's how we started, as microorganisms that don't really change states in how they function. We didn't grow out of this, we gained the ability to be awake, to change states in order to get better at sleep. In a way, being awake comes at the cost of not being able to sleep. 
 
@@ -343,7 +343,7 @@ So when people develop the perspective that sleep comes at the cost of not being
 I'm not sure where meditation and spiritual growth comes into play here but since they both have been shown to do wonders for people's ability to smoothly transition between brain states, and therefore improve their ability to transition into and out of sleep, it's probably a good thing. In fact, there is no major psychiatric disorder that coincides with having normal sleep. So, I implre you to really think about, "What are you going to do while you're awake about your life in order to provide yourself a good night's sleep?" We were evolved to find in sleep the meaning in experience, whether that experiencing be suffering, appreciating, learning, etc...to live as the defiant soul you evolved to be of which its meaning will be divined during sleep.
 
 ## Brief on Brain Structure
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The neuroscientific reason for why connections are made at all has to do with the fact that topographically the limbic system (neural circuit involved with the assignment of internal state to external cue, aka what you might call emotion, but more molecularly accurate to think of it as the adjustment of the internal state in response to the environment), amygdala (involved with threat detection, well more accurately emotional significance, well more acccurately biasing you towards changing your behavior by tethering the attention of your internal state towards the relevant environmental cue that is novel, exciting or threatening) and hippocampus (involved with long-term learning/memory) are essentially three butt buddies that surround the ventricle system (the Mediterranean sea) of the brain where they can essentially push out immediate hormonal signals and neural commands to move (or not move) our body to survive and live another day (and further down the reaction chain the hormonal signals will lead to the release of hormones that allow us to learn from this experience via connections in the brain). It is adaptive for us to learn quickly in the face of threat, to learn quickly if something is painful/harmful to us, or to learn quickly in the face of high emotion.
 
@@ -366,7 +366,7 @@ Some of these ways will involve B) redirecting your attention towards the activi
 Both ways simplify the amount of things that can be made salient to our mind, and practice our ability to be observational/acknowledging of our internal workings, and practice our ability to redirect our attention away from what doesn't matter and towards what does matter to us. Because we can't control what arises. Our stream of consciousness is like the water in a pot of boiling water. The shape of our consciousness is like the roaring water that is quite amorphous, and is some sort of field. Bubbles are perturbations in the field, where things just arise and take shape due to all sorts of non-conscious processes, such as the spatial-topographical relationship between parts of the brain, or things as simple as getting adequate Vitamin D from the sun. We can't control what bubbles form (can't control nonconscious processes), but we can use our behavior to influence the probability of which bubble types form in the future (creating a sort of chain-butterfly effect). In a very spiritual way, the universe is kind of unfolding and we have a magical experience of witnessing this unfolding from a particular point of view known as our consciousness. You influence your point of view of this unfolding magical experience through conscious will, throuhgh behavior, but you do not have free will on what conscious experiences arise. 
 
 ## Timing Personal Development and Relaxation
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 The reduced activation of the amygdala during relaxed states is also why relaxed states are better for creativity. The decreased amygdala activtiy, and therefore the decreased tether between the internal and external, also makes us more able to create new contingencies, that is, taking existing things and organizing them in new ways in space and time. You can take advantage of this, as there are times of the day where you are more likely to be relaxed and productive than others. Around 3 hours after waking time tends to be our best time towards highly focused deep work for 90 minutes, and around 11 hours after waking time for creative work for 90 minutes. Why? It is related to the intercations between our internal temperatures and circadian rhythms. The combination tends to lean towards more tethered work early on while we have our morning endogenous cortisol bump [a wakefulness signal] and the rising body temperature encourages alertness, and the combination tends to lean towards less tethered work later on when the build up of adenosine [which creates a sleep hunger] and less cortisol lingering and falling body temperature encourages us to be in a more relaxed state but not necessarily sleepy yet since melatonin, the sleepiness signal, begins releasing about 12-14 hours after waking. (This is also why people who shower in the morning tend to do cooler showers, and people who shower in the evening tend to do warmer showers.) So, early day is better for deep focus and attention. While the later day is better for connection coupling and uncoupling analysis. Also, we tend to have eaten food by the time later day arrives, which will divert some resources towards rest and digesting, and some foods (mostly carbs) release serotonin which is associated with satiation and stillness (and not coincidentally synthesizes into melatonin.)
 
@@ -377,7 +377,7 @@ The other signals we depend on to navigate through life just tells our body to s
 The sun's yellow and blue contrast (also there's studies that indicate that the red light is valuable for maintaining the ability to see color contrast, and wouldn't be surprised if this setting benefited your night vision as well), combined with the meditation practice will put you in a relaxation state that is suitable for transitioning into sleepiness and for transitioning into wakefulness. Plus you will have to move to get there, and the brain-body loves movement that generates optic flow. The body loves movement and seeing things move past you so much, just generating optic flow without movement is enough to suppress the amygdala (This is the basis of EMDR therapy), further compounding our ability to be in a relaxed state! Although, we live in a modern world, so do what makes sense to you, as it may not be feasible to function as our body was evolved to function. 
 
 ## Oversimplifying how Soul looks in Brain
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 You find your soul when you turn down the Default Mode Network (well more accurately, when you activate a calm accessing and flow version of the DMN that compared to other states is more aware of the in rather than the out, or rather more aware than both the in and out.) the turned down DMN state is one where we are piercingly conscious of the contents of our consciousness, but simultaneously not have activity in our brain areas related to the self-related (i.e., identity-related) processing. AKA the Witnessing Consciousness, a state where there's a strong felt experience of self without the self-referential experiences. This is the state all mystical gurus are working towards when they are attempting to attain enlightenment. When they are practicing their balanced awareness ability, they are making themselves suitable for entering the Witnessing Consciousness state. Not to say that they have to occur simultaneously, you can engage the witnessing consciousness state without having a heightened balanced awareness. The two certainly feed and build each other, but the witnessing consciousness state is more general purpose, in the sense that it can be achieved in basically almost all situations.
 
@@ -396,7 +396,7 @@ Sometimes REM sleep alone is not enough, so during waking this is where the enli
 Some people worry that distancing themselves away from the things they feel make them them, that distancing from the things they identify with might induce drawbacks on their ability to succeed in life. So they may actively choose not to find their soul, or not to practice the witnessing consciousness. This does not have to be the case as the personality does not really change in that way, and anecdotally people find that honing their spiritual prowess actually greatly improves their ability to do the things they care about doing. From the personality literature we learn that change happens incrementally. We're not one just one personality type, it's more like density distributions. We have all the different types within us, we just vary in how often we express them. To change is just shifting those distributions in very tiny amounts. Quite subtle shifts in the distribution of your behavior profile in life. So, it's pretty unlikely that it will lead to some sort of downfall that many people dread will happen if they distance themselves frmo the things that currently keep them going.
 
 ## Relearning Trauma
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 What is trauma? Trauma's operational definition, is that some fear took place which of course included stress and anxiety, and somehow that fear gets embedded or activated in our nervous systems such that it shows up at times when it is maladaptive, meaning that the fear doesn't serve us well at that time. So, if you wake up and are not in the presence of something that scared you, and you get what feels like a panic attack or a deep fear, that is post-traumatic stress/fear.
 
@@ -427,7 +427,7 @@ In another study, for those under chronic stress lasting weeks or more, rather t
 Anyways, after we've relived the trauma so that it is boring to us now (i.e., eliminating the trauma response comes first before you do the following.) This is when we start changing what the trauma meant to us. This is when we When you decide to embark on the self-directed deliberate narrative, that is, a tacking of the positive associations to that negative experience. Recall that the amygdala has output to the dopamine circuits. We can use that dynamic in combination with our ability of the PFC"s narrative powers to inhibit the trauma circuitry, to give us the power to map old traumas onto new experiences that have positive associations with them. Andrew Huberman uses the hypothetical example of a kid biking down a street to soccer practice but get into a car crash. The response the kid might will vary. Some will have a broad response where they don't want to bike anymore, not play sports anymore, not interact with friends much at all. Another kid might just decide they don't wnat to cycle anymore down that particular street. Whatever the case, when they've digested the trauma, they ought to adding some sort of positive narrative to the traumatic event. Some sort of narrative where something positive is going on, but they're still holding in mind the traumatic event. Simply replacing the bad memory with positive memories doesn't work, that just burries the trauma for it to live another day. Instead, "'m not just biking to soccer practice, I'm biking to soccer practice and enjoying my time with my friends despite the fact that I was in a bad car accident." The building up of positive associations and the linking of those positive associations with the earlier traumating event is key. You bring up the trauma while simultaneously inhibiting it with the self-directed deliberate narrative. You don't forget that the event was devastating, you're just nailing in the coffin for the fear response. Do note though that you have to digest the trauma first before you change the narrative. You can tell yourself a positive narrative, and even if it's true, it won't do anything for your trauma until you've extinguished those feelings first.
 
 ## Suppressing vs Processing Emotions and Thoughts part 2
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Research on Alexithymics (people who struggle with recognizing emotion) provide insight on the differences between suppressing and processing emotions and/or logic. They found evidence the VMPFC, amygdala and hippocampus are all involved with fear extinction. What we can extrapolate from the research is that when people have fear responses, or any emotion for that matter, you can have parts of your brain that are kind of inhibiting the expression of those emotions, trying to suppress the emotions from happening. For alexithymics, this happens readily. They don't feel emotion, despite there being emotional circuits that are active because those circuits are being inhibited from presenting in a particular way. Another group this happens a lot for, are those that rely on argumentation or logical thinking.
 
@@ -458,7 +458,7 @@ As you gain awareness of how your mind functions, and gain full awareness of how
 Any self-searching, or any activity that will help you develop an awareness of your inner workings, and create distance between you and your inner workings, this is what will allow you to start being inquisitive, curious, experimental, and playful and all the other types of present-action-oriented-modes of being that allow you to start considering change. It doesn't have to be some sort of spiritual journey or meditation regime, it can be something as simple as working out. Noticing the sensations you experience from doing it. And often these things will also build up emotional resilience as well as you train your work and endurance. Breathing into those sensations and breathing out of those sensations. Awareness can be practiced in many different ways, and it is contagious, it will spread through all the other areas of your life because awareness is a way of being that unlike logic and facts actually changes your subjective experience. I'm sure you've heard facts don't care about feelings. Well, feelings don't care about facts. So, to address feeling, you do feeling. 
 
 ## A note on Emotional Empathy
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 There's a hypothesis out there that if you are tuned out of the range of your own internal experience, then you will have trouble picking that up in other people as well. (of course you could still have cognitive empathy.) You might have an intuition that someone who practices isolated meditation might make you selfish. That since you've been focused on your own thoughts for so long it migiht make you like more awkward,  might make you disconnected from people when you get out of it. But my money is on the idea that tuning more into your own emotion might help you be more empathic.
 
@@ -475,7 +475,7 @@ Self-compassion is the difference between a shame-full guilt and a shame-free gu
 There are good studies that show when we know someone pretty well and they are going through some sort of experience of any kind, our heart rate, and breathing starts to mimic theirs even if we aren't conscious of their breathing. Somehow, human beings are able to register the internal state of other beings, and probably animals too. Even from a distance. Indicating that at least in this perspective, your sense of internal landscape is linked to others. You, yourself, can try enhancing your ability to get a better readout for how you feel, for your internal state, and likely therefore get a better readout for how others feel by doing things that increase your ability to be interoceptive such as learning to sense your heartbeats without taking your pulse. When you stop taking in exteroceptive information from the outside world by focusing inward by doing things such as closing your eyes, you start paying attention to your beathing caddence, your heart rate. And if you start to perceive your heart beating, you actually very quickly strengthen the vagal connections (the communication network) between the brain and body. Just by doing this a minute or so every once in a while, you will likely start to tapping into this sixth sense. In turn, this spiritual level up serves as the fourth most important ingredient (fourth after light information, oxygen, and glucose, although movement might be more important if you're already quite spiritual) for greatly increasing the synchrony of your organs.
 
 ## These things we call Emotions
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Interoception, your sense of your internal self, is an amalgation of internal feelings. The vagus nerve, the communication and motor system that is connected to basically every organ, is responsible for emotion because it aggregates the conditions of your gut, your heart, your breathing, and takes the collection of information to the brain, which combined is your emotional response. Whatever it is that bothers you, you think of generally as a purely cognitive event but (although your interpretation of the information does matter because if you're tired and want to sleep that feels good but if you're tired and need to be awake that feels bad, but that aside) the brain doesn't really know what to do with that cognitive information indicating that something is bothering us. It doesn't act directly on that information to create moods. Moods are created through the heart's response to reading that headline, through the change in your breathing in response to someone not interested in spending time with you anymore. Your sense of self, your interoception, is built from things like gut chemistry, immune systems, spleens, other organs. All of those things are plugging in like ingredients in a recipe that give rise to your mood and how you feel. When bad stress occurs, the stress does not mess up the gut, but what it does is shuts down the vagus nerve, which essentially serves as the communication network between the brain and body. Stress doesn't let your gut get signals to the brain, which throws off the chemistry of your gut and leads to a cascade of effects in your body. Disrupting your gut, making you feel not good, poor digestion and lousy, results that occur just because the neurons that communicate from gut to brain are quieted now, that is, just because your sense of interoception has been hampered. This is shown in one location in your body that other people can see, your facial expression. Your face, the size of your pupils, the tonality, how flushed or pale you are, the degree to which you are frowning or smiling relative to other periods, are all an aggregate, a reflection of your gut, your heart and your breathing and chemistry of your body. 
 
@@ -483,7 +483,7 @@ Interoception, your sense of your internal self, is an amalgation of internal fe
 
 # Back to Enlightenment
 ## Why Enlighten
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 “When experiences determine thoughts, desires determine personalities.” ~Lee Hyun-Gul from Gyeoggi 3 Ban. 
 
@@ -502,7 +502,7 @@ Dharma is about the next step as opposed to the last step. The most important st
 The essence of dharma is to live a life that is Authentic, Paying-Attention, and Value-Driven by looking at what's around you and experiemting with it, wholesomely tweaking your environment (internal and external.) "What can you do today that is of playful service towards your dharma?" This is how we create a supportive environment. It is not guaranteed, but there is a strong element of reciprocity there. A weakening connection between you and the world, because you are supporting the world and it starts to support you in a way that feels very fluid. And likewise, you support yourself in a way that also supports the world in a way that feels natural and wholesome. Once again, this is your duty: being authentic, paying attention, and being value-driven.
 
 ## Should You Meditate
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 "I suck at meditation, it isn't for me." Then who is the path of meditation for? I would keep in mind that a meditative practice that is good for you, is a practice that would be easy (as in, simple to do/not complex) & challenging (as in, it grabs sufficient amount of your attention.) There is a meditative practice suitable for every individual. If you find you struggle with meditation, it isn't because meditation isn't for you, it's because you haven't found a good meditation for you. Not to say that even if you were "good" at it that you are going to enjoy doing meditation. Nor to say you'll level up your spirituality just by doing meditation either. Just saying that a good meditative practice should come easy (& challenging) to you.
 
@@ -519,12 +519,12 @@ Whatever the case, meet yourself where you're at. A good meditation practice for
 Remember, contentness and suffering are on separate axes from emotion. You can appreciate the layers of beauty that arise with emotions, regardless of whether those emotions are positive and/or negative. So, if it is an appropriate and opportune time for you to play basketball and/or practice meditation, then do it. Do it and fail (or succeed) magnificently. And if you're not in a place where it makes sense to play basketball and/or practice meditation, then that's okay, don't do it. Be sensible here. Play & toy with it. If you suck at it and do it, then when you do it: Do it, knowing that it may never work, that it will never work. It's going to suck, it's not going to amount to anything. The better you get at noticing that the meditation sucks, and it's not doing anything for you, well,-that's the whole point-so the better you'll get at it. Do it, and as the futility arises, look at it, see it. Be reasonable here, experiment with it. When you practice meditation, the most important thing is to meet yourself where you are. Meet yourself at the only place you can be. Don't expect to find yourself where you are not. Notice where you are. Be here, not there. There is no there, there.
 
 ## Meditation vs Enlightenment
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Now of course, meditation practice is tied to spiritual growth, and enlightenment is used as a way to set a standard for and therefore proxy how spiritual growth looks like, but recognize that meditation practice in itself is not something you need to do, and it is not something that is for everyone. 1) The path of enlightenment does not make sense for everyone's situation. There are many evolutionary adaptive processes that are tied to one's success, and whether or not it is the right time to re-evaluate those processes is up to you. It's your choice as to whether you want to change or not, and are ready to change. 2) Meditation practice may be tied in its relation to improving your ability to be Enlightened, but they're two completely separate things. Enlightenment is a lot simpler than meditation, it is something you just "be", and it is something that you can be without meditation practice. Meditation is just doing something in particular, that has a chance at producing an enlightened state. It is an imitation, it is something you do to approximate enlightenment. However, to be enlightened you don't need to do anything in particular, you just be it. This is why Buddha laughed when he reached enlightenment because he realized all of those meditative practices and other endeavors he embarked were a waste of time (in terms of enlightenment) when in reality it was something so simple. Something that is hard to describe, perhaps impossible to describe, but yet so simple.
 
 ## Self-Transcendence
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Rather than transcendence it might be better described as descendence. As Abraham Maslow put it, "I think of the self-actualizing man not as an ordinary man with something added, but rather an ordinary man with nothing taken away." Because the process of becoming self-transcendent is really a process of *waking in* the awareness and aliveness, that is, a process of descending and tuning in to your internal self. Nothing needs to be removed or taken away. The only change is a shift in your view. It becomes less about what's here, but more about what is *arising to*. And what *arises to* is variable and temporary. The reason we call it Transcendence is that this process of self-actualization which usually follows the dissolution of the ego, this process of internal descendence, of internal realization, of tuning in to our actual true self, usually leads to people having an increased connection to all things not them, whether it be their work, or other people, or nature, or whatever. And not always, but usually self-transcendent people are also more likely to impact the world positively, not just their own self.
 
@@ -535,12 +535,12 @@ When the hull is secured [with safety, connection and self-esteem] we are not dr
 So, when people feel secure with safety, connection, and self-esteem, (their personality changes so that) they become more likely to grow via exploring, being love, and working towards a purpose. The process of self-transcendence is the process of giving yourself the power to build the ship's hull and sail, and to unlearn the things that get in the way of you building that ship. This process changes your personality traits but also your natural state. That is, you get a more stable sense of self. Which in turn provides a point of view that makes you more likely to be open to experience, to have newness of appreciation (i.e., to be able to have gratitude for what you see over and over, awaking to the newness of that), and other things similar to awe. In another view, self-transcendence is when you reach a point where your competence is so influential and powerful that you impact the world for the better, and because there is so little separation between you and the world you hit a point where what's good for you is also good for the world. 
 
 ## Artificial Intelligence
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
  
 Enlightenment is just about the felt sense of processing. AI process, but they don't do it with the felt sense.
 
 ## A Summary
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 Do you have to Enlighten? Enlightenment isn't necessary, nor is it optional; It is, already. Necessity is a construction of the human mind. It's kind of like saying is gravity necessary? No, gravity isn't necessary, it is just the state of things, it is just the way things are. In the same way, everyone is already what they are, enlightened, and that's how it is.
 
@@ -595,7 +595,7 @@ As your spiritually grows, you will find that your ego, adaptations, and attachm
 Now, whether anything I previously said is even remotely true or not, there is good scientific evidence that having an internally consistent way that you view the world is a good way to find peace, happiness, stability, and to build resilience. So, in this way, spending some time thinking about it and coming to your own conclusions about, "What is the way you are viewing your existence?," can be helpful to you at least based on the evidence. Also, meditation (or other activity of your choosing) offers various prompts as starting points towards exploring the qualities of your relationship to self.
 
 # Too Long I Did Not Read
-[Return to ToC](#Table-of-Contents)
+[Return to ToC](#table-of-contents)
 
 **"*Hey Dude, The philosophy is cool, but I need practical advice. Could you kindly provide the steps, plz bro.*"**
 Look Buddy, I'm lowkey autistic, looking at the temperament of a person and trying to suggest a meditative practice for you is out of my league. So, instead I'd say, if you've read this and understand the goal of meditation, well even if you didn't read nor understand the goal of meditation and it just sounds too hokey-pokey to be true, this is all you got to know; If you engage in an activity that does one or more of these 6 things, you are on the path of enlightenment: 
