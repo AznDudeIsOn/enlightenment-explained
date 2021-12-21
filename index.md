@@ -1,4 +1,4 @@
-**There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasure if you're into that typa thing. Skip any sections as you see fit**
+**There's a TL;DR: at the bottom. Everything else is optional leisure shit talk for your Sunday newspaper reading pleasure. Skip any sections as you see fit**
 
 # Table of Contents
 1. [Preface / Disclaimer](#Preface-and-Disclaimer)
