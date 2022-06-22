@@ -47,7 +47,8 @@
 	3. [Meditation vs Enlightenment](#meditation-vs-enlightenment)
 	4. [Self-Transcendeence](#self-transcendence)
 	5. [Aritifical Intelligence](#artificial-intelligence)
-	6. [A Summary](#a-summary)
+	6. [Movement](#movement)
+	7. [A Summary](#a-summary)
 6. [Too Long I Did Not Read](#too-long-i-did-not-read)
 100. Pic example in case I want to add pics later
 ![Alt text for the visually impaired](mindfulness.png)
@@ -701,6 +702,17 @@ So, when people feel secure with safety, connection, and self-esteem, (their per
 [Return to ToC](#table-of-contents)
  
 Enlightenment is just about the felt sense of processing. AI process, but they don't do it with the felt sense.
+
+## Movement
+[Return to ToC](#table-of-contents)
+
+Ido Portal here is an expert in Movement, and has done many things including advising successful MMA fighter, Conor McGregor.
+
+For Ido, Movement is not just physical movements. It's way way more than that. And in my perspective, that when he is describing what Movement means, he is essentially describing enlightenment and sharing practical advice and ideologies that have no doubt helped many people reach their own enlightenment, he just wouldn't call it that. In fact, he says enlightenment is a shadow of the sun, that is, it is not the sun itself really. And there is no doubt a conciseness and accuracy to his description of letting go of postures, that my long page here evidently lacks.
+
+There's a difficulty in describing what it is that Ido means by Movement, and even Ido himself explains that words cannot adequately describe the reality of our existence. Despite that difficulty, Ido Portal does a very good job of illustrating his idea of Movement and how we can incorporate this understanding of Movement into every waking moment of our lives. https://youtu.be/a9yFKPmPZ90?t=468 
+
+No doubt, Ido provides a clear template for you to explore your own enlightenment path.
 
 ## A Summary
 [Return to ToC](#table-of-contents)
