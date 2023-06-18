@@ -50,7 +50,7 @@
 	6. [Aritifical Intelligence](#artificial-intelligence)
 	7. [Movement](#movement)
 	8. [A Summary](#a-summary)
-6. [Too Long I Did Not Read](#too-long-i-did-not-read)
+7. [Too Long I Did Not Read](#too-long-i-did-not-read)
 100. Pic example in case I want to add pics later
 ![Alt text for the visually impaired](mindfulness.png)
 
@@ -892,19 +892,31 @@ As mentioned previously, meditation comes with well documented and researched wi
 If you do insist on looking for a meditative practice and not sure where to start. Well I'm not sure either but definitely watch this video first (there isn't much better videos out there.) It is by no means exhaustive of any sort but it's a start and it's free. 
 https://www.youtube.com/watch?v=H37BDUyCEe0
 
-The money beg: Alternatively, Dr. K is someone who has spent years in the land of the monks and years as a MD, someone who advocates for the meditative practices best supported by science and has found success sharing his meditative practices from Harvard MDs to investment bankers to NFL players to sex workers to whatever else you can name in Boston. What makes Dr. K special is he is a gamer and is currently targeting youth, who the mental health system seems to have failed. However, Dr. K is only one guy and can’t save the world, so instead he is working on duplicating himself. Right now, he is training coaches (mostly young adult gamers) to have life-changing impact on young adults that have found themselves straggling in life. Dr. K has released an interactive meditation guide for $30, which will go directly to the pockets of his coaches, that so far are having statistically significant impact on those being coached (with effect sizes comparable to medication.) The $30 gives you 5 different paths of actual meditative practices, organized by theme/goal. The 5 paths are Mind, Self/Soul, Happiness/Contentment, Knowledge, Accomplishment. If you do want Dr. K’s meditation guide, it's designed for those with Discord accounts, but a Google account works too.
+The money beg: Alternatively, Dr. K is someone who has spent years in the land of the monks and years as a MD, someone who advocates for the meditative practices best supported by science and has found success sharing his meditative practices from Harvard MDs to investment bankers to NFL players to sex workers to whatever else you can name in Boston. What makes Dr. K special is he is a gamer and is currently targeting youth, who the mental health system seems to have failed. However, Dr. K is only one guy and can’t save the world, so instead he is working on duplicating himself. Right now, he is training coaches (mostly young adult gamers) to have life-changing impact on young adults that have found themselves straggling in life. Dr. K has released an interactive meditation guide for $20, which will go directly to the pockets of his coaches, that so far are having statistically significant impact on those being coached (with effect sizes comparable to medication.) The $20 gives you 5 different paths of actual meditative practices, organized by theme/goal. The 5 paths are Mind, Self/Soul, Happiness/Contentment, Knowledge, Accomplishment. If you do want Dr. K’s meditation guide, it's designed for those with Discord accounts, but a Google account works too.
 https://coaching.healthygamer.gg/guide
 
-List, As you improve your ability to recognize how your conscious functions you will naturally get:
-confidence that stems from an understanding taht your truest sense of self is actually selfless,
+As you improve your ability to recognize how your conscious functions you will naturally get:
+
+confidence that stems from an understanding that your truest sense of self is actually selfless,
+
 a sense of fulfilling duties that stems from a stronger sense of both power and powerlessness,
+
 connection between you as an observer to the things you observe,
+
 a sense of unity and common humanity and of everything being connected,
+
 a sense of awe and sacredness and reverance,
+
 sense of a whole and unified direction that would have otherwise been denied by misperceptions of the way consciousness works,
+
 an authoritative feeling of truth and certainty in everything you do,
+
 health improvements across any metric you can think of,
+
 ability to focus on doing your best to dive into the nitty gritty of an activity while simultaneously having an increased ability to detach and see the world expansively and panoramically,
+
 an inclination to be compassionate and to forgive both yourselves and others,
+
 improved decision making for choosing which battles to fight,
+
 ability to see things for what they are as opposed to what you think they are or label them as, 
