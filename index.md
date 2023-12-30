@@ -104,7 +104,7 @@ Chapter 3 is the informational part teaching about how our mind-body functions; 
 
 Chapter 4 is somewhere between synthesizing together the information, and philosophy on potential ways of moving forward with the information.
 
-There is an order to this text but I tried to make the subsections somewhat stand-alone. So, feel free to skip any sections and read in any order you choose.
+There is an order to this text but I tried to make the subsections somewhat stand-alone. The writing is also meant to be repetitive, as every section is just describing enlightenment in another way. So, feel free to skip any sections and read in any order you choose. 
 
 # Chapter 1: Mindfulness is comparatively myopic
 ## Recontextualizing Mindfulness
